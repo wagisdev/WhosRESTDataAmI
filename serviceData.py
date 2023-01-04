@@ -52,8 +52,8 @@ dbConnection = [('YourEnterpriseDB', r'C:\Users\yourusername\AppData\Roaming\Esr
 affectedFeatureClassName = r'' # Format Database.Owner.FeatureClassName
 
 # Send confirmation of rebuild to
-adminNotify = 'gisdba@bellevuewa.gov'
-deptAdminNotify = 'gisinfo@bellevuewa.gov'
+adminNotify = 'gisdba@yourdomain.com'
+deptAdminNotify = 'gisinfo@yourdomain.com'
 
 # Configure the e-mail server and other info here.
 mail_server = 'smtp-relay.google.com'
